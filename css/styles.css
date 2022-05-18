@@ -1,0 +1,22 @@
+.header{
+	background-image: url('../img/banner-bg.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+
+.border {
+	display: block;
+}
+
+.custom-centered {
+	width: 600px;
+	margin: 0 auto;
+}
+
+textarea#floatingTextarea2.form-control{
+	resize: none;
+	width: 500px;
+}
